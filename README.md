@@ -13,5 +13,7 @@ Check out this [contributing guide](https://github.com/#blah-blah-blah).
 All contributions would be recognized. 
 
 ### Postscriptum
+Even now, I'm still sold on the idea that a centralised study material repository, can significantly improve the pass rate of univerity students in Nigeria.
+
 If this repo gets some activity (like stars and forks), I would a build nice frontend for searching the files in the repo.
 I hope you find this useful.
