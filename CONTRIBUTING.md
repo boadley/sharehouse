@@ -44,4 +44,7 @@ Step 2. Rename the resulting PDF file
 Rename the file according to Understaning the file names section above
 
 Step 3. Submit a pull request or create an issue.
-[use a nice gif here, u might one online u know fcc]
+__Option 1__: Submit a PR
+[Nice tutorial on how to make your first pull request on github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)\
+__Option 2__: Create an Issue
+[Nice tutorial on how to create github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
