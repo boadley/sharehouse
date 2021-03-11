@@ -1,5 +1,6 @@
 ### Understaning the file name
-![search sharehous](https://user-images.githubusercontent.com/38544672/110796169-f0f15900-8277-11eb-86e2-d8369e0461cd.gif)
+![rename sharehouse files](https://user-images.githubusercontent.com/38544672/110798618-a58c7a00-827a-11eb-8106-408fa6fb2cd6.jpg)
+
 
 1. Programme
 2. Course Code
