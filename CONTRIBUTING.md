@@ -1,4 +1,6 @@
-### Understaning the file name
+# DRATF MODE, IGNORE TYHE T3POS OR DON'T BOTHER READING...YET
+
+### Understanding the file name
 ![rename sharehouse files](https://user-images.githubusercontent.com/38544672/110798618-a58c7a00-827a-11eb-8106-408fa6fb2cd6.jpg)
 
 
@@ -37,14 +39,14 @@ Academic Session
 	99 = 1998/1999
 ```
 ### Contributing
-Step 1. Digitise material and convert to PDF
+Step 1. Digitise material and convert to PDF\
 Snap( try to snap the picture in way that you won't to to crop it later) the pass question and convert the resulting imagefiles (png or jpeg, you get the idea) it to a pdf file using the trial version of [Nitropro](link) or [FoxitPDF](link) (both softwrae have very easy tutorials on how to collate multiple files into a pdf file).
 
-Step 2. Rename the resulting PDF file
+Step 2. Rename the resulting PDF file\
 Rename the file according to Understaning the file names section above
 
-Step 3. Submit a pull request or create an issue.
-__Option 1__: Submit a PR
+Step 3. Submit a pull request or create an issue.\
+__Option 1__: Submit a PR\
 [Nice tutorial on how to make your first pull request on github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)\
-__Option 2__: Create an Issue
+__Option 2__: Create an Issue\
 [Nice tutorial on how to create github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
