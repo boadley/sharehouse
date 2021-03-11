@@ -13,12 +13,11 @@ This repo can be searched using Github built-in search function
 ![search sharehouse repo](https://user-images.githubusercontent.com/38544672/110785748-93efa600-826b-11eb-8e0d-50080dd3c4d3.PNG)
 
 ### Contributing
-Okay, you read the story and you want to share your past questions too? 🙌🙌 My heart melts.\
-Check this [contributing guide](https://github.com/boadley/sharehouse/blob/main/CONTRIBUTING.md).\
+Okay, you read the story and you want to share your past questions too? 🙌🙌 My heart melts. Check this [contributing guide](https://github.com/boadley/sharehouse/blob/main/CONTRIBUTING.md).\
 All contributions would be recognized. 
 
 ### Postscriptum
 Even now, I'm still sold on the idea that _a centralized repository of study materials_, can improve the pass rate of university students in Nigeria.\
-<br\>
+\
 If this repo gets some activity (like stars and forks), I would build a nice frontend for searching the files in the repo.\
 I hope you find this useful.
