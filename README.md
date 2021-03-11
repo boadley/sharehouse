@@ -10,7 +10,7 @@ Sometime in 2018, I found a guy who thinks the idea makes sense, together we col
 
 ### Searching the Repo
 This repo can be searched using Github built-in search function
-![search sharehouse repo](https://user-images.githubusercontent.com/38544672/110785748-93efa600-826b-11eb-8e0d-50080dd3c4d3.PNG)
+![search sharehous](https://user-images.githubusercontent.com/38544672/110796169-f0f15900-8277-11eb-86e2-d8369e0461cd.gif)
 
 ### Contributing
 Okay, you read the story and you want to share your past questions too? 🙌🙌 My heart melts. Check this [contributing guide](https://github.com/boadley/sharehouse/blob/main/CONTRIBUTING.md).\
