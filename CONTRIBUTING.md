@@ -1,6 +1,4 @@
-# DRATF MODE, IGNORE TYHE T3POS OR DON'T BOTHER READING...YET
-
-### Understanding the file name
+## Understanding the File Name
 ![rename sharehouse files](https://user-images.githubusercontent.com/38544672/110798618-a58c7a00-827a-11eb-8106-408fa6fb2cd6.jpg)
 
 
@@ -39,14 +37,14 @@ Academic Session
 	99 = 1998/1999
 ```
 ### Contributing
-Step 1. Digitise material and convert to PDF\
-Snap( try to snap the picture in way that you won't to to crop it later) the pass question and convert the resulting imagefiles (png or jpeg, you get the idea) it to a pdf file using the trial version of [Nitropro](link) or [FoxitPDF](link) (both softwrae have very easy tutorials on how to collate multiple files into a pdf file).
+__Step 1. Digitize material and convert to PDF__\
+Snap a picture or the material( try to snap the picture in a way that you won't have to crop it later) or type it the pass question and convert the resulting files (PNG, JPEG, DOCX, or TXT you get the idea) to a pdf file using the trial version of [Nitropro](https://www.gonitro.com/) or [FoxitPDF](https://www.foxitsoftware.com/) (both software have very easy tutorials on how to collate multiple files into a single pdf file).
 
-Step 2. Rename the resulting PDF file\
-Rename the file according to Understaning the file names section above
+__Step 2. Rename the resulting PDF file__\
+Rename the file according to the `Understanding the file names` section above.
 
-Step 3. Submit a pull request or create an issue.\
-__Option 1__: Submit a PR\
-[Nice tutorial on how to make your first pull request on github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)\
-__Option 2__: Create an Issue\
-[Nice tutorial on how to create github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue)
+__Step 3. Submit a pull request or create an issue.__\
+_Option 1_: Submit a PR\
+[Nice tutorial on how to make your first pull request on Github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/).\
+_Option 2_: Create an Issue\
+[Nice tutorial on how to create Github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
