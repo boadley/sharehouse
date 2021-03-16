@@ -47,7 +47,8 @@ __Step 3. Submit a pull request or create an issue.__\
 _Option 1_: Submit a PR\
 [Nice tutorial on how to make your first pull request on Github](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/).\
 _Option 2_: Create an Issue\
+[Nice tutorial on how to create Github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+
 - Upload the PDF files to cloud storage (Dropbox, Google Drive, etc.), enable sharing, and copy the download link
 - Create an Issue here on Github and paste the link to the files
 - You'll be notified soon!
-[Nice tutorial on how to create Github issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue).
